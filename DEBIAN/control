@@ -1,0 +1,10 @@
+Package: PhNavigo
+Version: 0.2.6
+Section: browser
+Priority: optional
+Architecture: all
+Installed-Size: 9614
+Depends: 
+Maintainer: outadoc <pierrehs@hotmail.com>
+Description: Web Browser "PhNavigo" simple, easy and secure!
+Homepage: http://01script.com
